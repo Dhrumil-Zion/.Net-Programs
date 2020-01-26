@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 
 namespace Converter
 {
     class Program
     {
 
-        void DeciToBinary()                          //Decimal To Binary 
+        void DeciToBinary()                              //Decimal To Binary
         {
             Console.WriteLine("\nDecimal To Binary\n");
             int Deci = 15;
