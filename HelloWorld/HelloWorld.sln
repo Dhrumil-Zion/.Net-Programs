@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{395693A0-670E-42C7-8208-1886EE1C22EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld.csproj", "{395693A0-670E-42C7-8208-1886EE1C22EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical-1", "..\Practical-1\Practical-1.csproj", "{6E9441FA-01BB-4742-84B8-5805D24D5384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical-1", "..\Practical-1\Practical-1.csproj", "{6E9441FA-01BB-4742-84B8-5805D24D5384}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical-2", "..\Practical-2\Practical-2.csproj", "{8BDB2968-A936-4499-B992-759D4B834B53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical-2", "..\Practical-2\Practical-2.csproj", "{8BDB2968-A936-4499-B992-759D4B834B53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical-3", "..\Practical-3\Practical-3.csproj", "{9A9F5DB9-C594-4C0C-B92A-E89A393B1A8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical-3", "..\Practical-3\Practical-3.csproj", "{9A9F5DB9-C594-4C0C-B92A-E89A393B1A8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical-4", "..\Practical-4\Practical-4.csproj", "{F370038B-A0D0-47DC-B7B3-90C09E061636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical-4", "..\Practical-4\Practical-4.csproj", "{F370038B-A0D0-47DC-B7B3-90C09E061636}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical-5", "..\Practical-5\Practical-5.csproj", "{4E0A39F0-C2D5-4992-AC30-672EB9F0FBE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical-6", "..\Practical-6\Practical-6.csproj", "{B96C0C0F-414C-4940-B7B5-8D6E3975C5F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{F370038B-A0D0-47DC-B7B3-90C09E061636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F370038B-A0D0-47DC-B7B3-90C09E061636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F370038B-A0D0-47DC-B7B3-90C09E061636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0A39F0-C2D5-4992-AC30-672EB9F0FBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0A39F0-C2D5-4992-AC30-672EB9F0FBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0A39F0-C2D5-4992-AC30-672EB9F0FBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0A39F0-C2D5-4992-AC30-672EB9F0FBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96C0C0F-414C-4940-B7B5-8D6E3975C5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96C0C0F-414C-4940-B7B5-8D6E3975C5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96C0C0F-414C-4940-B7B5-8D6E3975C5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96C0C0F-414C-4940-B7B5-8D6E3975C5F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

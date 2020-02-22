@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.exe
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.deps.json
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.runtimeconfig.json
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.runtimeconfig.dev.json
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.dll
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\bin\Debug\netcoreapp3.1\Practical-5.pdb
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.AssemblyInfo.cs
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.dll
+C:\Users\Admin\Documents\DotNet\.NET Programs\Practical-5\obj\Debug\netcoreapp3.1\Practical-5.pdb
