@@ -137,24 +137,21 @@ namespace Practical_6
                 }
                 reply = reply + "\t" + single(x[0]);
             }
-
-            return reply;
+        return reply;
         }
         public static string Thr(int[] x)
         {
             string reply = "";
             if (x[2] == 1 && x[1] == 0 && x[0] == 0)
             {
-                return "Hundred";
+                return "One Hundred";
             }
             else
             {
                 switch (x[2])
                 {
 
-                    case 1:
-                        reply = "OneHundred";
-                        break;
+                    
                     case 2:
                         reply = "TwoHundred";
                         break;
@@ -186,10 +183,6 @@ namespace Practical_6
 
             return reply;
         }
-
-
-
-
         public static string Fou(int[] x)
         {
             string reply = "";
@@ -202,10 +195,6 @@ namespace Practical_6
             {
                 switch (x[3])
                 {
-
-                    case 1:
-                        reply = "OneThousand";
-                        break;
                     case 2:
                         reply = "TwoThousand";
                         break;
@@ -231,21 +220,47 @@ namespace Practical_6
                         reply = "NineThousand";
                         break;
                 }
-
+                
+                if(Thr(x).Trim().Equals("Zero"))
+                        return reply;
+                
                 reply = reply + "\t" + Thr(x);
             }
 
             return reply;
 
         }
-
         public static string Fiv(int[] x)
         {
             string reply = "";
 
-            if (x[4]==1 &&x[3] == 0 && x[2] == 0 && x[1] == 0 && x[0] == 0)
+            if (x[4]==1 &&x[3] == 0 && x[2] == 0 && x[1] == 0 )
             {
-                return "TenThousand";
+                
+                return "TenThousand "+single(x[0]);
+            }
+            else if(x[4] == 1 && x[3] == 0 && x[2] == 0 && x[1]>0)
+            {
+                return "TenThousand " + Dou(x);
+            }
+            else if(x[4] == 1 && x[3] == 0 && x[2] >= 1 )
+            {
+                return "TenThousand " + Thr(x);
+            }
+            else if(x[4]>=2 )
+            {
+                int temp = x[1];
+                x[1] = x[4];
+                reply = Dou(x);
+                reply = reply + "\t Thousand";
+                x[1] = temp;
+
+                if (Thr(x).Trim().Equals("Zero"))
+                    return reply;
+                reply = reply + "\t" + Thr(x);
+                return reply;
+
+
             }
             else if(x[4]==1)
             {
@@ -253,7 +268,7 @@ namespace Practical_6
                 {
 
                     case 1:
-                        reply = "elevenThousand";
+                        reply = "ElevenThousand";
                         break;
                     case 2:
                         reply = "TwelveThousand";
@@ -280,14 +295,17 @@ namespace Practical_6
                         reply = "NineteenThousand";
                         break;
                 }
+                if (Thr(x).Trim().Equals("Zero"))
+                    return reply;
+                
 
                 reply = reply + "\t" + Thr(x);
             }
-
+            
             return reply;
 
-        }
 
+        }
         static void Main(string[] args)
         {
             String fin;
@@ -330,11 +348,6 @@ namespace Practical_6
                 fin = Fiv(arr);
                 Console.WriteLine(fin);
             }
-
-
-
         }
-
-        
     }
 }
