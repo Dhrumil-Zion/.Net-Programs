@@ -23,9 +23,8 @@ namespace Practical_8
                     double far = (cel * (9 / 5)) + 32;
 
                     Console.WriteLine($" °C {cel} = "+far +" FARENHITE ");
-
-
-                    break;
+ 
+                break;
 
                 case 2:  //FARENHITE TO CELSIUS 
 

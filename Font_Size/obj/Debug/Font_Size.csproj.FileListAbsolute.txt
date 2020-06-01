@@ -1,9 +1,0 @@
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\bin\Debug\Font_Size.exe.config
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\bin\Debug\Font_Size.exe
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\bin\Debug\Font_Size.pdb
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\obj\Debug\Font_Size.csprojAssemblyReference.cache
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\obj\Debug\Font_Size.Form1.resources
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\obj\Debug\Font_Size.Properties.Resources.resources
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\obj\Debug\Font_Size.csproj.GenerateResource.cache
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\obj\Debug\Font_Size.exe
-C:\Users\Admin\Documents\DotNet\.NET Programs\Font_Size\obj\Debug\Font_Size.pdb

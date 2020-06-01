@@ -1,9 +1,0 @@
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\bin\Debug\CALCULATOR.exe.config
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\bin\Debug\CALCULATOR.exe
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\bin\Debug\CALCULATOR.pdb
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\obj\Debug\CALCULATOR.csprojAssemblyReference.cache
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.cache
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\obj\Debug\CALCULATOR.exe
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\obj\Debug\CALCULATOR.pdb
-C:\Users\Admin\Documents\DotNet\.NET Programs\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
