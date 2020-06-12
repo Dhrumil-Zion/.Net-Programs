@@ -16,7 +16,7 @@ namespace Practical_2
             Console.WriteLine("You are from which country ?"); //Getting User Country
             CountryName = Console.ReadLine();
 
-                                                               //Validation useing Regex
+            //Validation useing Regex
 
             if (Regex.IsMatch(FirstName, @"^[a-zA-Z]+$") && Regex.IsMatch(CountryName, @"^[a-zA-Z]+$"))
             {
@@ -32,3 +32,4 @@ namespace Practical_2
         }
     }
 }
+
